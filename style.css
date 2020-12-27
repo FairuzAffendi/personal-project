@@ -1,0 +1,81 @@
+body
+{
+	background-image: url("images/blue.gif");
+}
+
+h1 
+{
+	color: #000000;
+	text-align: center;
+	border: 5px solid #FF00FF;
+	background-color: #6495ED;
+	border-radius: 20px
+	font-size: 45px;
+	width: 7000px
+	padding: 0px;
+	font-family: 'CASTELLAR', cursive;
+}
+
+h2
+{
+	background-color: #9FE2BF; 
+	color: #000000;
+	text-align: center;
+	font-family: 'LUCIDA CALLIGRAPHY', cursive;
+	font-size: 45px;
+	border:solid;
+	border-color: black;
+	border-radius: 50px;
+}
+
+h3
+{
+	background-color: #9FE2BF; 
+	color: #000000;
+	text-align: center;
+	font-family: 'LUCIDA CALLIGRAPHY', cursive;
+	font-size: 30px;
+	border:solid;
+	border-color: black;
+	border-radius: 40px;
+}
+
+h4 
+{
+	background-color: #9FE2BF; 
+	color: #000000;
+	text-align: center;
+	font-family: 'LUCIDA CALLIGRAPHY', cursive;
+	font-size: 45px;
+	border:solid;
+	border-color: black;
+	border-radius: 50px;
+}
+
+p
+{
+	background-color: #9FE2BF;
+	font-size: 30px;
+	text-align: center;
+	color: #000000;
+	font-family: 'Lucida Bright', cursive;
+	padding: 15px;
+}
+
+
+a:link, a:visited
+	{
+		background-color: #338FFF;
+		color: #CCCCFF;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 25px;
+		padding: 15px;
+	}
+
+a:hover, a:active
+	{
+		background-color: #75BDE3;
+		color: #7590E3;
+	}
